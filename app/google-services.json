@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833704231239",
+    "project_id": "login-crud-c2b9c",
+    "storage_bucket": "login-crud-c2b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833704231239:android:5434e75578810c15e3cc62",
+        "android_client_info": {
+          "package_name": "com.duho.login_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833704231239-61n5j9dcppsptlsjap1mv1kgn9tb5ck8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbefP8wS6bzXJbQrpzYXadHfwYaiAHAMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833704231239-61n5j9dcppsptlsjap1mv1kgn9tb5ck8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login_CRUD</string>
+    <string name="register">Register</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="todo">img_1</string>
+    <string name="put_name_to_add">put name</string>
+    <string name="add">add</string>
+    <string name="click_button_to_do_it">Click button to do it!</string>
+    <string name="list_name">List Name !</string>
+    <string name="delete">DELETE</string>
+    <string name="getall">GETALL</string>
+    <string name="del">DEL</string>
+    <string name="update">UPDATE</string>
+</resources>
