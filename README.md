@@ -21,4 +21,7 @@
 
 ## Delete By ID
 
+![img_deletebyID_newadd](https://user-images.githubusercontent.com/66524011/101991758-4fdb1c80-3ce1-11eb-9a84-bdb8b6ad9c24.PNG)
+
+
 ## Update By ID
